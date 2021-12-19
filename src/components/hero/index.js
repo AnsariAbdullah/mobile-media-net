@@ -1,3 +1,3 @@
-import Hero from "./hero";
+import MainProduct from "./mainProduct";
 
-export default Hero;
+export default MainProduct;
